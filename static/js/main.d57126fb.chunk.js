@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-chat-app"]=this["webpackJsonpreact-chat-app"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c(3),a=(c(12),c(0));function s(){return Object(a.jsxs)("div",{className:"App",children:[Object(a.jsx)("h1",{children:"Hello CodeSandbox"}),Object(a.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var o=document.getElementById("root");Object(r.createRoot)(o).render(Object(a.jsx)(n.StrictMode,{children:Object(a.jsx)(s,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.d57126fb.chunk.js.map

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kiranrouthu.github.io/csb-riktif/static/css/main.a8c11f55.chunk.css",
+    "main.js": "https://kiranrouthu.github.io/csb-riktif/static/js/main.d57126fb.chunk.js",
+    "main.js.map": "https://kiranrouthu.github.io/csb-riktif/static/js/main.d57126fb.chunk.js.map",
+    "runtime-main.js": "https://kiranrouthu.github.io/csb-riktif/static/js/runtime-main.66e16e9d.js",
+    "runtime-main.js.map": "https://kiranrouthu.github.io/csb-riktif/static/js/runtime-main.66e16e9d.js.map",
+    "static/js/2.87302bb2.chunk.js": "https://kiranrouthu.github.io/csb-riktif/static/js/2.87302bb2.chunk.js",
+    "static/js/2.87302bb2.chunk.js.map": "https://kiranrouthu.github.io/csb-riktif/static/js/2.87302bb2.chunk.js.map",
+    "index.html": "https://kiranrouthu.github.io/csb-riktif/index.html",
+    "static/css/main.a8c11f55.chunk.css.map": "https://kiranrouthu.github.io/csb-riktif/static/css/main.a8c11f55.chunk.css.map",
+    "static/js/2.87302bb2.chunk.js.LICENSE.txt": "https://kiranrouthu.github.io/csb-riktif/static/js/2.87302bb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66e16e9d.js",
+    "static/js/2.87302bb2.chunk.js",
+    "static/css/main.a8c11f55.chunk.css",
+    "static/js/main.d57126fb.chunk.js"
+  ]
+}
